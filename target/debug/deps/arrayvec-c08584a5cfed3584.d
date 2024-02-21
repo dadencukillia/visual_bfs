@@ -1,0 +1,11 @@
+/home/crocoby/Downloads/VisualBsf/visual_bfs/visual_bfs/target/debug/deps/libarrayvec-c08584a5cfed3584.rmeta: /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/lib.rs /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/arrayvec_impl.rs /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/arrayvec.rs /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/array_string.rs /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/char.rs /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/errors.rs /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/utils.rs
+
+/home/crocoby/Downloads/VisualBsf/visual_bfs/visual_bfs/target/debug/deps/arrayvec-c08584a5cfed3584.d: /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/lib.rs /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/arrayvec_impl.rs /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/arrayvec.rs /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/array_string.rs /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/char.rs /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/errors.rs /home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/utils.rs
+
+/home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/lib.rs:
+/home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/arrayvec_impl.rs:
+/home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/arrayvec.rs:
+/home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/array_string.rs:
+/home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/char.rs:
+/home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/errors.rs:
+/home/crocoby/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.7.4/src/utils.rs:
